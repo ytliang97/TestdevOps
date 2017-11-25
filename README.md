@@ -1,4 +1,4 @@
-# TestdevOps
+﻿# TestdevOps
 learning devOps, learning culture
 
 
@@ -8,5 +8,5 @@ go 1.9.2 windows<br/>
 git windows<br/>
 devops-server.ova https://goo.gl/RGD9sf
 <br/><br/>
-使用已建置好的環境(devops-server)練習CI
+使用已建置好的環境(devops-server)練習CI<br/>
 id/pass: devops
